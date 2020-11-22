@@ -11,4 +11,4 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> **정보**: 이 페이지는 Choi Hojun에 의해 제작되었음. (https://github.com/hj10271803)
